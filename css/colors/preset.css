@@ -1,0 +1,117 @@
+a{
+	color: #0069A6;
+}
+a:hover{
+	color: #0069A6;
+}
+.btn-common{
+	border-color: #0069A6;
+    background-color: #0069A6;
+}
+.btn-common:hover{
+	border-color: #0069A6;
+    color: #0069A6;
+}
+.btn-border:hover{
+	background-color: #0069A6;
+}
+#subscribe .sub_btn:hover{
+	background: #2855d1;
+}
+.section-header .section-title span{
+	color: #0069A6;
+}
+.section-header .lines{
+	border-color: #0069A6; 
+}
+.section-header .lines:before{
+	background: #0069A6;
+}
+.overlay{
+	background: #0069A6;
+}
+#hero-area .overlay{
+	background: #0069A6;
+}
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.active::before, .navbar-light .navbar-nav .nav-link.open, .navbar-light .navbar-nav .open > .nav-link{
+	color: #0069A6;
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:hover:before{
+	color: #0069A6;
+}
+.navbar-light .navbar-nav .nav-link:before{
+	background: #0069A6;
+}
+.menu-wrap .navbar-nav li .active,
+.menu-wrap .navbar-nav li .active::before{
+	color: #0069A6;
+}
+.menu-wrap a:hover, .menu-wrap a:focus{
+	color: #0069A6;
+}
+.icon-list a::before {
+    background: #0069A6;
+}
+#about .about-boxes .icon{
+	border-color: #0069A6;
+}
+#about .about-boxes .icon i{
+	color: #0069A6;
+}
+.item-boxes .icon{
+	border-color: #0069A6;
+}
+.item-boxes .icon i{
+	color: #0069A6;
+}
+#features .box-item .icon{
+	border-color: #0069A6;
+}
+#features .box-item .icon i{
+	color: #0069A6;
+}
+#features .box-item:hover .icon{
+	background: #0069A6;
+}
+.video-promo .video-promo-content .video-popup:hover{
+	background: #0069A6;
+	border-color: #0069A6;
+}
+.shot-item .overlay:before, 
+.shot-item .overlay:after{
+	background: #0069A6;
+}
+.controls .mixitup-control-active{
+	color: #0069A6!important;
+	border-color: #0069A6;
+}
+.owl-theme .owl-controls .owl-page span{
+	background: #0069A6;
+}
+.pricing-table .icon{
+	color: #0069A6;
+	border-color: #0069A6;
+}
+.pricing-table .pricing-details span{
+	color: #0069A6;
+}
+#blog .blog-item-img:before {
+	background: rgba(70, 118, 250, 0.7);
+}
+.form-control:focus{
+	box-shadow: 0 0 2px #0069A6;
+}
+#subscribe .sub_btn{
+	background: #0069A6;
+}
+#contact:before{
+	background: #0069A6;
+}
+.back-to-top i{
+	background-color: #0069A6;
+}
+
+.tp-bullets.preview4 .bullet:hover, .tp-bullets.preview4 .bullet.selected{
+	border-color: #0069A6!important;
+}
+
