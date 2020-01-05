@@ -202,11 +202,14 @@ a:not([href]):not([tabindex]):hover {
   background-color: #fff;
 }
 .logo-menu a {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
   color: #fff;
 }
+
+
+
 .title-hero{
   font-family: 'Montserrat', sans-serif;
   font-size: 3.2rem;
