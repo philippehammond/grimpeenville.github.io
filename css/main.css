@@ -118,6 +118,15 @@ h6 {
   padding-bottom: 40px;
 }
 
+video#bgVideo {
+  position: absolute; // Play the video in full screen mode
+  top: 0px; 
+  left: 0px; 
+  min-width: 100%; 
+  min-height: 100%;
+  z-index: -1; // Put the video behind all other elements
+}
+
 .topo-item{
   margin-left: 10px;
 }
@@ -370,7 +379,6 @@ a:not([href]):not([tabindex]):hover {
 #video-area {
   overflow: hidden;
   position: relative;
-  background-color: #D3D3D3;
 }
 #video-area .contents {
   padding: 160px 0 80px;
