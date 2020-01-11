@@ -57,9 +57,11 @@ a {
   -webkit-transition: all 0.5s ease-in-out;
 }
 .btn-border {
-  color: #EC2E26;
+  /* color: #EC2E26; */
+  color: #19395F;
   background-color: transparent;
-  border: 2px solid #EC2E26;
+  /* border: 2px solid #EC2E26; */
+  border: 2px solid #19395F;
   border-radius: 4px;
 }
 .btn-border:hover {
@@ -222,15 +224,21 @@ a:not([href]):not([tabindex]):hover {
 .title-hero{
   font-family: 'Montserrat', sans-serif;
   font-size: 3.2rem;
-  line-height: 0.9;
+  line-height: 1.1;
   text-transform: uppercase;
   font-style: normal;
+  color: #19395F!important;
+  /*text-shadow: 0px 0px 2px #ffffff!important;*/
+  text-shadow: 0px 0px 2px rgba(255,255,255,.3)!important;
 }
 .title-hero2{
   font-family: 'Raleway', sans-serif;
   line-height: 0.9;
-  font-weight: 100;
-  font-size: 1.2rem!important;
+  font-weight: 600!important;
+  font-size: 1.6rem!important;
+  color: #19395F!important;
+  /*text-shadow: 0px 0px 2px #ffffff!important;*/
+  text-shadow: 0px 0px 2px rgba(255,255,255,.3)!important;
 }
 .menu-bg {
   background-color: #fff!important;
@@ -310,8 +318,8 @@ a:not([href]):not([tabindex]):hover {
   top: 0px;
   left: 0px;
   background: #0069A6;
-  opacity: 0.7;
-  filter: alpha(opacity=70);
+  /*opacity: 0.7;
+  filter: alpha(opacity=70);*/
 }
 #hero-area .contents {
   padding: 160px 0 80px;
