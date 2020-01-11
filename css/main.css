@@ -214,8 +214,8 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .logo-size {
-  height: 114px;
-  width: 100px;
+  height: 90px;
+  width: 78px;
 }
 
 @media only screen and (max-width: 400px) {
@@ -223,6 +223,11 @@ a:not([href]):not([tabindex]):hover {
     height: 68px;
     width: 60px;
   }
+}
+
+.logo-menu{
+  padding-top: 4px!important;
+  padding-bottom: 4px!important;
 }
 
 .logo-menu a {
