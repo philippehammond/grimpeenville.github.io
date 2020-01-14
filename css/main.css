@@ -184,9 +184,9 @@ a:not([href]):not([tabindex]):hover {
 }
 .section-header .section-subtitle {
   margin-top: 15px;
-  color: #333;
-  font-size: 14px;
-  font-weight: 400;
+  color: #0D2B4E;
+  font-size: 18px;
+  font-weight: 600;
 }
 .section-header .lines {
   margin: auto;
@@ -593,6 +593,8 @@ a:not([href]):not([tabindex]):hover {
 .shot-item img {
   width: 100%;
 }
+
+
 .shot-item .overlay {
   display: block;
   position: relative;
@@ -793,7 +795,7 @@ a:not([href]):not([tabindex]):hover {
    Video promo Style
    ========================================================================== */
 .video-promo {
-  background: url(../img/bg3.png) fixed;
+  background: url(../video/video.jpg) fixed;
   background-position: cover;
   position: relative;
 }
